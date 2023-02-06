@@ -9,5 +9,5 @@ if (len > 2)
 }
 else
 {
-    Console.WriteLine("третьей цифры нет");
+    Console.WriteLine("У данного числа нет третьей цифры");
 }
